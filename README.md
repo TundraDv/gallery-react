@@ -1,1 +1,1 @@
-# gokei-gallery
+# react-gallery
